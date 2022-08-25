@@ -22,7 +22,7 @@ pod 'YYModel'
 
 ## Author
 
-403725592@qq.com, alexichen@tencent.com
+403725592@qq.com
 
 ## License
 

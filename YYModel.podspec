@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.author           = 'alexichen' 
   s.platform         = :ios
   s.platform         = :ios, "4.0"
-  s.source           = { :git => 'https://github.com/403725592@qq.com/YYModel.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/JamesChenGithub/YYModel.git', :tag => s.version.to_s }
 
   s.source_files = 'YYModel/Classes/**/*'
 end
